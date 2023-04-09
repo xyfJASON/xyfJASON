@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there👋, I'm xyfJASON.
+
+ - 🔭 Graduating from HITsz this year and going to pursue a Master degree in ICT🏫.
+ - 🌱 Currently learning AI stuffs, particularly deep learning🤖, computer vision👀, generative models🎨, etc.
+ - 👨🏻‍💻 Coding with Python, C, and C++. Implementing great models🔮 and algorithms🪄.
+ - 📝 Sharing things I've learned on my [blog website](https://xyfjason.top).
+ - ⚽️ Love playing football and ping-pong.
+
+![](https://github-readme-stats.vercel.app/api?username=xyfjason&show_icons=true)
 
 <!--
 **xyfJASON/xyfJASON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
