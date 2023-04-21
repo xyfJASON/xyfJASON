@@ -1,10 +1,9 @@
 ## Hi there👋, I'm xyfJASON.
 
- - 🔭 Graduating from HITsz this year and going to pursue a Master degree in ICT🏫.
- - 🌱 Currently learning AI stuffs, particularly deep learning🤖, computer vision👀, generative models🎨, etc.
- - 👨🏻‍💻 Coding with Python, C, and C++. Like to implementing great models🔮 and algorithms🪄.
- - 📝 Sharing things I've learned on my [blog website](https://xyfjason.top).
- - ⚽️ Love playing football and ping-pong.
+ - 🔭 I'm graduating from HITsz this year and going to pursue a Master degree in ICT🏫.
+ - 🌱 I'm currently learning AI stuffs, particularly deep learning🤖, computer vision👀, generative models🎨, etc.
+ - 👨🏻‍💻 I like to implement great models🔮 and algorithms🪄.
+ - 📝 I'm sharing things I've learned on my [blog website](https://xyfjason.top).
 
 
 ## GitHub Stats
