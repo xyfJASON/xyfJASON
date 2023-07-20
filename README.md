@@ -17,11 +17,6 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyfJASON&hide=html,css,verilog,vhdl,jupyter%20notebook&langs_count=3&hide_border=true" />
   </td>
  </tr>
- <tr>
-  <td colspan="2">
-   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=xyfJASON&theme=github-light">
-  </td>
- </tr>
 </table>
 
 <!--
