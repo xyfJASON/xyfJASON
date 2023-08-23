@@ -1,7 +1,7 @@
 ## Hi there👋, I'm xyfJASON.
 
- - 🔭 I'm graduating from HITsz this year and going to pursue a Master degree in ICT🏫.
- - 🌱 I'm currently learning AI stuffs, particularly deep learning🤖, computer vision👀, generative models🎨, etc.
+ - 🔭 I'm a Master student of ICT🏫.
+ - 🌱 I'm currently studying AI stuffs, particularly deep learning🤖, computer vision👀, generative models🎨, etc.
  - 👨🏻‍💻 I like to implement great models🔮 and algorithms🪄.
  - 📝 I'm sharing things I've learned on my [blog website](https://xyfjason.top).
 
