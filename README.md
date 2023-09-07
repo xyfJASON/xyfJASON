@@ -1,6 +1,6 @@
 ## Hi there👋, I'm xyfJASON.
 
- - 🔭 I'm a Master student of ICT🏫.
+ - 🔭 I'm a first-year Master student at ICT🏫.
  - 🌱 I'm currently studying AI stuffs, particularly deep learning🤖, computer vision👀, generative models🎨, etc.
  - 👨🏻‍💻 I like to implement great models🔮 and algorithms🪄.
  - 📝 I'm sharing things I've learned on my [blog website](https://xyfjason.top).
@@ -8,16 +8,7 @@
 
 ## GitHub Stats
 
-<table>
- <tr>
-  <td>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xyfjason&show_icons=true&hide_border=true&theme=default" alt="xyfJASON's GitHub stats" />
-  </td>
-  <td>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyfJASON&hide=html,css,verilog,vhdl,jupyter%20notebook&langs_count=3&hide_border=true" />
-  </td>
- </tr>
-</table>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xyfjason&show_icons=true&hide_border=true&theme=default" alt="xyfJASON's GitHub stats" />
 
 <!--
 **xyfJASON/xyfJASON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
