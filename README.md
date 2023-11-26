@@ -1,14 +1,9 @@
 ## Hi there👋, I'm xyfJASON.
 
- - 🔭 I'm a first-year Master student at ICT🏫.
- - 🌱 I'm currently studying AI stuffs, particularly deep learning🤖, computer vision👀, generative models🎨, etc.
- - 👨🏻‍💻 I like to implement great models🔮 and algorithms🪄.
- - 📝 I'm sharing things I've learned on my [blog website](https://xyfjason.top).
-
-
-## GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xyfjason&show_icons=true&hide_border=true&theme=default" alt="xyfJASON's GitHub stats" />
+ - 🔭 I'm a first-year Master student in the [VIPL](http://vipl.ict.ac.cn/en) research group at [ICT](http://www.ict.ac.cn/).
+ - 🌱 I'm interested in generative models🎨 with computer vision applications.
+ - 👨🏻‍💻 I like to implement great models and algorithms.
+ - 📝 I'm sharing things on my [blog website](https://xyfjason.top).
 
 <!--
 **xyfJASON/xyfJASON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
