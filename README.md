@@ -1,9 +1,9 @@
 ## Hi there👋, I'm xyfJASON.
 
  - 🔭 I'm a first-year Master student in the [VIPL](http://vipl.ict.ac.cn/en) research group at [ICT](http://www.ict.ac.cn/).
- - 🌱 I'm interested in generative models🎨 with computer vision applications.
+ - 🌱 I'm interested in generative models and their applications in computer vision.
  - 👨🏻‍💻 I like to implement great models and algorithms.
- - 📝 I'm sharing things on my [blog website](https://xyfjason.top).
+ - 📝 I'm sharing notes on my [blog website](https://xyfjason.top).
 
 <!--
 **xyfJASON/xyfJASON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
